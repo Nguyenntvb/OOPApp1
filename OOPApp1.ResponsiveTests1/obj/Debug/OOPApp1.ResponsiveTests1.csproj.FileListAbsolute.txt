@@ -1,0 +1,12 @@
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\bin\Debug\OOPApp1.ResponsiveTests1.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\bin\Debug\OOPApp1.ResponsiveTests1.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\bin\Debug\OOPApp1.Entities.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\bin\Debug\OOPApp1.Responsive.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\bin\Debug\OOPApp1.Entities.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\bin\Debug\OOPApp1.Responsive.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\obj\Debug\OOPApp1.ResponsiveTests1.csprojAssemblyReference.cache
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\obj\Debug\OOPApp1.ResponsiveTests1.csproj.CoreCompileInputs.cache
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\obj\Debug\OOPApp1.ResponsiveTests1.csproj.CopyComplete
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\obj\Debug\OOPApp1.ResponsiveTests1.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.ResponsiveTests1\obj\Debug\OOPApp1.ResponsiveTests1.pdb

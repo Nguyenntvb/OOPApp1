@@ -1,0 +1,9 @@
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\bin\Debug\OOPApp1.Responsive.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\bin\Debug\OOPApp1.Responsive.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\bin\Debug\OOPApp1.Entities.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\bin\Debug\OOPApp1.Entities.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\obj\Debug\OOPApp1.Responsive.csprojAssemblyReference.cache
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\obj\Debug\OOPApp1.Responsive.csproj.CoreCompileInputs.cache
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\obj\Debug\OOPApp1.Responsive.csproj.CopyComplete
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\obj\Debug\OOPApp1.Responsive.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1.Responsive\obj\Debug\OOPApp1.Responsive.pdb

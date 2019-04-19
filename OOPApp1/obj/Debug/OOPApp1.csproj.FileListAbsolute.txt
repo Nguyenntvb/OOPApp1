@@ -1,0 +1,13 @@
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.exe
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.Entities.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.Responsive.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.Service.dll
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.Entities.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.Responsive.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\bin\Debug\OOPApp1.Service.pdb
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\obj\Debug\OOPApp1.csprojAssemblyReference.cache
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\obj\Debug\OOPApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\obj\Debug\OOPApp1.csproj.CopyComplete
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\obj\Debug\OOPApp1.exe
+C:\Users\Ng.NguyenT\source\repos\OOPApp1\OOPApp1\obj\Debug\OOPApp1.pdb
