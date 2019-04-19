@@ -1,1 +1,5 @@
-# OOPApp1
+Demo checking Triangle
+OOP
+SOLID
+Service
+Responsive
